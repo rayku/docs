@@ -231,7 +231,7 @@ browser</string>
    <object idref="LifelineNode6"/>
    <object class="java.awt.geom.Point2D$Double">
     <void method="setLocation">
-     <double>792.0</double>
+     <double>907.0</double>
      <double>0.0</double>
     </void>
    </object>
@@ -240,7 +240,7 @@ browser</string>
    <object idref="ActivationBarNode7"/>
    <object class="java.awt.geom.Point2D$Double">
     <void method="setLocation">
-     <double>824.0</double>
+     <double>939.0</double>
      <double>348.0</double>
     </void>
    </object>
@@ -249,7 +249,7 @@ browser</string>
    <object idref="LifelineNode7"/>
    <object class="java.awt.geom.Point2D$Double">
     <void method="setLocation">
-     <double>903.0</double>
+     <double>1018.0</double>
      <double>0.0</double>
     </void>
    </object>
@@ -258,8 +258,25 @@ browser</string>
    <object idref="ActivationBarNode8"/>
    <object class="java.awt.geom.Point2D$Double">
     <void method="setLocation">
-     <double>935.0</double>
+     <double>1050.0</double>
      <double>401.0</double>
+    </void>
+   </object>
+  </void>
+  <void method="addNode">
+   <object class="com.horstmann.violet.NoteNode">
+    <void property="text">
+     <void property="text">
+      <string>Here asker waits
+while Platform notifies
+selected tutors</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.awt.geom.Point2D$Double">
+    <void method="setLocation">
+     <double>760.0</double>
+     <double>106.0</double>
     </void>
    </object>
   </void>
