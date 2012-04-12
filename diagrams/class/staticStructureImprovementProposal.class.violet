@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.6.0_23" class="java.beans.XMLDecoder">
+ <object class="com.horstmann.violet.ClassDiagramGraph">
+  <void method="addNode">
+   <object id="PackageNode0" class="com.horstmann.violet.PackageNode">
+    <void property="name">
+     <string>Gtalk Bot</string>
+    </void>
+   </object>
+   <object class="java.awt.geom.Point2D$Double">
+    <void method="setLocation">
+     <double>1076.710159841132</double>
+     <double>204.7315043852694</double>
+    </void>
+   </object>
+  </void>
+  <void method="addNode">
+   <object id="PackageNode1" class="com.horstmann.violet.PackageNode">
+    <void property="contents">
+     <void property="text">
+      <string>Browser</string>
+     </void>
+    </void>
+    <void property="name">
+     <string>User</string>
+    </void>
+   </object>
+   <object class="java.awt.geom.Point2D$Double">
+    <void method="setLocation">
+     <double>2.0</double>
+     <double>217.0</double>
+    </void>
+   </object>
+  </void>
+  <void method="addNode">
+   <object id="PackageNode2" class="com.horstmann.violet.PackageNode">
+    <void property="contents">
+     <void property="text">
+      <string>Frontend/FE
+Admin/ADM</string>
+     </void>
+    </void>
+    <void property="name">
+     <string>rayku.com</string>
+    </void>
+   </object>
+   <object class="java.awt.geom.Point2D$Double">
+    <void method="setLocation">
+     <double>239.5409707600653</double>
+     <double>118.51365692002179</double>
+    </void>
+   </object>
+  </void>
+  <void method="addNode">
+   <object id="PackageNode3" class="com.horstmann.violet.PackageNode">
+    <void property="name">
+     <string>cronjobs</string>
+    </void>
+   </object>
+   <object class="java.awt.geom.Point2D$Double">
+    <void method="setLocation">
+     <double>326.0</double>
+     <double>2.0</double>
+    </void>
+   </object>
+  </void>
+  <void method="addNode">
+   <object id="PackageNode4" class="com.horstmann.violet.PackageNode">
+    <void property="name">
+     <string>MAC Bot Server</string>
+    </void>
+   </object>
+   <object class="java.awt.geom.Point2D$Double">
+    <void method="setLocation">
+     <double>1066.874042881393</double>
+     <double>318.7854688102558</double>
+    </void>
+   </object>
+  </void>
+  <void method="addNode">
+   <object id="PackageNode5" class="com.horstmann.violet.PackageNode">
+    <void property="name">
+     <string>Facebook Bot</string>
+    </void>
+   </object>
+   <object class="java.awt.geom.Point2D$Double">
+    <void method="setLocation">
+     <double>1078.7394634464774</double>
+     <double>487.11058187037554</double>
+    </void>
+   </object>
+  </void>
+  <void method="addNode">
+   <object id="PackageNode6" class="com.horstmann.violet.PackageNode">
+    <void property="name">
+     <string>Whiteboard</string>
+    </void>
+   </object>
+   <object class="java.awt.geom.Point2D$Double">
+    <void method="setLocation">
+     <double>200.0</double>
+     <double>348.0</double>
+    </void>
+   </object>
+  </void>
+  <void method="addNode">
+   <object id="PackageNode7" class="com.horstmann.violet.PackageNode">
+    <void property="name">
+     <string>MSN Bot</string>
+    </void>
+   </object>
+   <object class="java.awt.geom.Point2D$Double">
+    <void method="setLocation">
+     <double>1079.085257795634</double>
+     <double>65.40639132514968</double>
+    </void>
+   </object>
+  </void>
+  <void method="addNode">
+   <object id="PackageNode8" class="com.horstmann.violet.PackageNode">
+    <void property="name">
+     <string>Rayku Online Presence Service</string>
+    </void>
+   </object>
+   <object class="java.awt.geom.Point2D$Double">
+    <void method="setLocation">
+     <double>455.46632504604213</double>
+     <double>304.4370214406965</double>
+    </void>
+   </object>
+  </void>
+  <void method="addNode">
+   <object id="NoteNode0" class="com.horstmann.violet.NoteNode">
+    <void property="text">
+     <void property="text">
+      <string>New Service with private API that
+is responsible mainly for
+keeping state of all users
+online presence status
+
+
+
+nodejs ?
+</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.awt.geom.Point2D$Double">
+    <void method="setLocation">
+     <double>359.1405487308217</double>
+     <double>400.76279775591706</double>
+    </void>
+   </object>
+  </void>
+  <void method="addNode">
+   <object id="PackageNode9" class="com.horstmann.violet.PackageNode">
+    <void property="name">
+     <string>Rayku Question Asker Service</string>
+    </void>
+   </object>
+   <object class="java.awt.geom.Point2D$Double">
+    <void method="setLocation">
+     <double>512.5482665661727</double>
+     <double>42.81145614009796</double>
+    </void>
+   </object>
+  </void>
+  <void method="addNode">
+   <object id="PackageNode10" class="com.horstmann.violet.PackageNode">
+    <void property="contents">
+     <void property="text">
+      <string>Gearmand or Redis as Messages server</string>
+     </void>
+    </void>
+    <void property="name">
+     <string>Queue</string>
+    </void>
+   </object>
+   <object class="java.awt.geom.Point2D$Double">
+    <void method="setLocation">
+     <double>575.5762436613171</double>
+     <double>199.78679532045714</double>
+    </void>
+   </object>
+  </void>
+  <void method="addNode">
+   <object id="NoteNode1" class="com.horstmann.violet.NoteNode">
+    <void property="text">
+     <void property="text">
+      <string>Drives process of iterating
+through selected tutors
+to find the one that is ready
+to accept the challenge of answering it</string>
+     </void>
+    </void>
+   </object>
+   <object class="java.awt.geom.Point2D$Double">
+    <void method="setLocation">
+     <double>795.5795599368203</double>
+     <double>16.6488996100381</double>
+    </void>
+   </object>
+  </void>
+  <void method="connect">
+   <object class="com.horstmann.violet.ClassRelationshipEdge">
+    <void property="bentStyle">
+     <object class="com.horstmann.violet.BentStyle" field="HVH"/>
+    </void>
+    <void property="endArrowHead">
+     <object class="com.horstmann.violet.ArrowHead" field="V"/>
+    </void>
+   </object>
+   <object idref="PackageNode2"/>
+   <object idref="PackageNode6"/>
+  </void>
+  <void method="connect">
+   <object class="com.horstmann.violet.ClassRelationshipEdge">
+    <void property="bentStyle">
+     <object class="com.horstmann.violet.BentStyle" field="HVH"/>
+    </void>
+    <void property="endArrowHead">
+     <object class="com.horstmann.violet.ArrowHead" field="V"/>
+    </void>
+   </object>
+   <object idref="PackageNode3"/>
+   <object idref="PackageNode2"/>
+  </void>
+  <void method="connect">
+   <object class="com.horstmann.violet.ClassRelationshipEdge">
+    <void property="bentStyle">
+     <object class="com.horstmann.violet.BentStyle" field="HVH"/>
+    </void>
+    <void property="endArrowHead">
+     <object class="com.horstmann.violet.ArrowHead" field="V"/>
+    </void>
+    <void property="middleLabel">
+     <string>uses FE/whiteboard as API</string>
+    </void>
+   </object>
+   <object idref="PackageNode6"/>
+   <object idref="PackageNode2"/>
+  </void>
+  <void method="connect">
+   <object class="com.horstmann.violet.ClassRelationshipEdge">
+    <void property="bentStyle">
+     <object class="com.horstmann.violet.BentStyle" field="HVH"/>
+    </void>
+    <void property="endArrowHead">
+     <object class="com.horstmann.violet.ArrowHead" field="V"/>
+    </void>
+   </object>
+   <object idref="PackageNode1"/>
+   <object idref="PackageNode2"/>
+  </void>
+  <void method="connect">
+   <object class="com.horstmann.violet.ClassRelationshipEdge">
+    <void property="bentStyle">
+     <object class="com.horstmann.violet.BentStyle" field="HVH"/>
+    </void>
+    <void property="endArrowHead">
+     <object class="com.horstmann.violet.ArrowHead" field="V"/>
+    </void>
+   </object>
+   <object idref="PackageNode1"/>
+   <object idref="PackageNode6"/>
+  </void>
+  <void method="connect">
+   <object class="com.horstmann.violet.ClassRelationshipEdge">
+    <void property="bentStyle">
+     <object class="com.horstmann.violet.BentStyle" field="HVH"/>
+    </void>
+    <void property="endArrowHead">
+     <object class="com.horstmann.violet.ArrowHead" field="V"/>
+    </void>
+   </object>
+   <object idref="PackageNode2"/>
+   <object idref="PackageNode8"/>
+  </void>
+  <void method="connect">
+   <object class="com.horstmann.violet.ClassRelationshipEdge">
+    <void property="bentStyle">
+     <object class="com.horstmann.violet.BentStyle" field="HVH"/>
+    </void>
+    <void property="endArrowHead">
+     <object class="com.horstmann.violet.ArrowHead" field="V"/>
+    </void>
+   </object>
+   <object idref="PackageNode8"/>
+   <object idref="PackageNode7"/>
+  </void>
+  <void method="connect">
+   <object class="com.horstmann.violet.ClassRelationshipEdge">
+    <void property="bentStyle">
+     <object class="com.horstmann.violet.BentStyle" field="HVH"/>
+    </void>
+    <void property="endArrowHead">
+     <object class="com.horstmann.violet.ArrowHead" field="V"/>
+    </void>
+   </object>
+   <object idref="PackageNode8"/>
+   <object idref="PackageNode0"/>
+  </void>
+  <void method="connect">
+   <object class="com.horstmann.violet.ClassRelationshipEdge">
+    <void property="bentStyle">
+     <object class="com.horstmann.violet.BentStyle" field="HVH"/>
+    </void>
+    <void property="endArrowHead">
+     <object class="com.horstmann.violet.ArrowHead" field="V"/>
+    </void>
+   </object>
+   <object idref="PackageNode8"/>
+   <object idref="PackageNode4"/>
+  </void>
+  <void method="connect">
+   <object class="com.horstmann.violet.ClassRelationshipEdge">
+    <void property="bentStyle">
+     <object class="com.horstmann.violet.BentStyle" field="HVH"/>
+    </void>
+    <void property="endArrowHead">
+     <object class="com.horstmann.violet.ArrowHead" field="V"/>
+    </void>
+   </object>
+   <object idref="PackageNode8"/>
+   <object idref="PackageNode5"/>
+  </void>
+  <void method="connect">
+   <object class="com.horstmann.violet.NoteEdge"/>
+   <object idref="PackageNode8"/>
+   <object idref="NoteNode0"/>
+  </void>
+  <void method="connect">
+   <object class="com.horstmann.violet.ClassRelationshipEdge">
+    <void property="bentStyle">
+     <object class="com.horstmann.violet.BentStyle" field="HVH"/>
+    </void>
+    <void property="endArrowHead">
+     <object class="com.horstmann.violet.ArrowHead" field="V"/>
+    </void>
+   </object>
+   <object idref="PackageNode2"/>
+   <object idref="PackageNode9"/>
+  </void>
+  <void method="connect">
+   <object class="com.horstmann.violet.ClassRelationshipEdge">
+    <void property="bentStyle">
+     <object class="com.horstmann.violet.BentStyle" field="HVH"/>
+    </void>
+    <void property="endArrowHead">
+     <object class="com.horstmann.violet.ArrowHead" field="V"/>
+    </void>
+   </object>
+   <object idref="PackageNode2"/>
+   <object idref="PackageNode10"/>
+  </void>
+  <void method="connect">
+   <object class="com.horstmann.violet.ClassRelationshipEdge">
+    <void property="bentStyle">
+     <object class="com.horstmann.violet.BentStyle" field="HVH"/>
+    </void>
+    <void property="endArrowHead">
+     <object class="com.horstmann.violet.ArrowHead" field="V"/>
+    </void>
+   </object>
+   <object idref="PackageNode9"/>
+   <object idref="PackageNode10"/>
+  </void>
+  <void method="connect">
+   <object class="com.horstmann.violet.NoteEdge"/>
+   <object idref="PackageNode9"/>
+   <object idref="NoteNode1"/>
+  </void>
+ </object>
+</java>
